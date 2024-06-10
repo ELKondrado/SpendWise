@@ -1,0 +1,48 @@
+.statistics-title-text {
+  font-size: 25px;
+  color: #d1cd00;
+  font-weight: 600;
+  align-self: center;
+  text-align: center;
+}
+
+.statistics-page-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.date-intervals {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.statistics-buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.statistics-buttons button {
+  width: 175px;
+}
+
+.statistics-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  gap: 1rem;
+}
+
+.statistics-date-interval-container {
+  display: flex;
+  justify-content: center;
+}
+
+.statistics-date-interval-button {
+  color: #ffffff;
+}

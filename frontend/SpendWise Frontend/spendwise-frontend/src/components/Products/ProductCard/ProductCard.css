@@ -1,0 +1,29 @@
+.products-page-card {
+  background: #dcda64cf !important;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 0 40px rgba(0, 0, 0, 0.1),
+    inset 0 0 10px rgba(0, 0, 0, 0.1) !important;
+  height: 13rem;
+}
+
+.products-page-category {
+  padding: 1rem;
+  padding-bottom: 0;
+  height: 5rem;
+  font-weight: 800 !important;
+  color: #fff;
+  font-size: 25px !important;
+}
+
+.products-page-categories {
+  text-overflow: ellipsis;
+  padding: 1rem;
+  padding-top: 0.5rem;
+  height: 5rem;
+}
+
+.products-category-operations{ 
+    display: flex;
+    justify-content: space-between;
+    height: 2.5rem;
+    padding: 0 0.75rem 0 0.75rem;
+}
